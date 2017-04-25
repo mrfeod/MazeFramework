@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1491919294 source:c:\users\school\desktop\Ñ++\slugin\slugin kirill\main.cpp
+	"Maze.h"
+	<stdio.h>
+
+1491631423 c:\users\school\desktop\Ñ++\slugin\slugin kirill\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\school\desktop\Ñ++\slugin\slugin kirill\mazeframework\include\mazelib.h
+
+1492002697 source:c:\users\admin19\desktop\c++\slugin kirill\main.cpp
+	"Maze.h"
+	<stdio.h>
+
+1491995602 c:\users\admin19\desktop\c++\slugin kirill\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491995602 c:\users\admin19\desktop\c++\slugin kirill\mazeframework\include\mazelib.h
+
+1492522090 source:c:\users\admin24\desktop\slugin kirill\main.cpp
+	"Maze.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1491995602 c:\users\admin24\desktop\slugin kirill\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491995602 c:\users\admin24\desktop\slugin kirill\mazeframework\include\mazelib.h
+
+1493123838 source:c:\users\admin15\desktop\slugin kirill\main.cpp
+	<iostream>
+	"Maze.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1491995602 c:\users\admin15\desktop\slugin kirill\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491995602 c:\users\admin15\desktop\slugin kirill\mazeframework\include\mazelib.h
+

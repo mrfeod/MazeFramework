@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1492003776 source:c:\users\admin24\desktop\Ñ++\repin\mazetemplate\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	"Maze.h"
+
+1491997281 c:\users\admin24\desktop\Ñ++\repin\mazetemplate\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin24\desktop\Ñ++\repin\mazetemplate\mazeframework\include\mazelib.h
+
+1492522708 source:c:\users\admin21\desktop\c++\repin\mazetemplate\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	<fstream>
+	"Maze.h"
+
+1491997281 c:\users\admin21\desktop\c++\repin\mazetemplate\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin21\desktop\c++\repin\mazetemplate\mazeframework\include\mazelib.h
+
+1492522708 source:j:\c++ lessons\Ñ++\repin\mazetemplate\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	<fstream>
+	"Maze.h"
+
+1491997281 j:\c++ lessons\Ñ++\repin\mazetemplate\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 j:\c++ lessons\Ñ++\repin\mazetemplate\mazeframework\include\mazelib.h
+
+1493127153 source:c:\users\admin16\desktop\Ñ++\repin\mazetemplate\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	<fstream>
+	"Maze.h"
+
+1491997281 c:\users\admin16\desktop\Ñ++\repin\mazetemplate\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin16\desktop\Ñ++\repin\mazetemplate\mazeframework\include\mazelib.h
+

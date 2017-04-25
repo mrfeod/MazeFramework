@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1491917586 source:c:\users\admin17\desktop\mazetemplate\main.cpp
+	"Maze.h"
+	<iostream>
+	<stdio.h>
+
+1491631423 c:\users\admin17\desktop\mazetemplate\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin17\desktop\mazetemplate\mazeframework\include\mazelib.h
+
+1492005268 source:c:\users\admin21\desktop\vladimirc\main.cpp
+	"Maze.h"
+	<iostream>
+	<stdio.h>
+
+1491631423 c:\users\admin21\desktop\vladimirc\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin21\desktop\vladimirc\mazeframework\include\mazelib.h
+
+1493126114 source:c:\users\admin17\desktop\vladimirc\main.cpp
+	"Maze.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1491631423 c:\users\admin17\desktop\vladimirc\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin17\desktop\vladimirc\mazeframework\include\mazelib.h
+
+1492524030 source:e:\proj_18\vladimirc\main.cpp
+	"Maze.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1491631423 e:\proj_18\vladimirc\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 e:\proj_18\vladimirc\mazeframework\include\mazelib.h
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1491637373 source:d:\development\projects\teaching\maze\main.cpp
+	<iostream>
+	<stdio.h>
+	"Maze.h"
+
+1491618407 d:\development\projects\teaching\maze\maze.h
+	"mazeframework_global.h"
+
+1491618829 d:\development\projects\teaching\maze\mazeframework_global.h
+
+1491631423 d:\development\projects\teaching\mazeframework\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 d:\development\projects\teaching\mazeframework\mazelib.h
+

@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1491645040 source:c:\users\school\desktop\c++\lesson 11\euvgeniy chushka\main.cpp
+	"Maze.h"
+
+1491631423 c:\users\school\desktop\c++\lesson 11\euvgeniy chushka\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\school\desktop\c++\lesson 11\euvgeniy chushka\mazeframework\include\mazelib.h
+
+1491645040 source:c:\users\school\desktop\c++\lesson 11\evgeniy\main.cpp
+	"Maze.h"
+
+1491631423 c:\users\school\desktop\c++\lesson 11\evgeniy\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\school\desktop\c++\lesson 11\evgeniy\mazeframework\include\mazelib.h
+
+1492004483 source:c:\users\admin22\desktop\С++\evgeniy\main.cpp
+	"Maze.h"
+	<iostream>
+	<stdio.h>
+
+1491631423 c:\users\admin22\desktop\С++\evgeniy\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin22\desktop\С++\evgeniy\mazeframework\include\mazelib.h
+
+1492517166 source:c:\users\school\desktop\С++\eugene\evgeniy\main.cpp
+	"Maze.h"
+	<iostream>
+	<stdio.h>
+
+1491631423 c:\users\school\desktop\С++\eugene\evgeniy\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\school\desktop\С++\eugene\evgeniy\mazeframework\include\mazelib.h
+
+1493127405 source:c:\users\admin18\desktop\c++\Звнятие 102343\main.cpp
+	"MazeFramework/include/Maze.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1491631423 c:\users\admin18\desktop\c++\Звнятие 102343\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin18\desktop\c++\Звнятие 102343\mazeframework\include\mazelib.h
+

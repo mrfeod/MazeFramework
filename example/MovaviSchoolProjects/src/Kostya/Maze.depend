@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1491917520 source:c:\users\admin21\desktop\c++\lessons\jackob\oksman kostya\main.cpp
+	"Maze.h"
+	<stdio.h>
+
+1491631423 c:\users\admin21\desktop\c++\lessons\jackob\oksman kostya\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin21\desktop\c++\lessons\jackob\oksman kostya\mazeframework\include\mazelib.h
+
+1492004132 source:c:\users\school\desktop\Ñ++\oksman kostya\main.cpp
+	"stdio.h"
+	"Maze.h"
+
+1491631423 c:\users\school\desktop\Ñ++\oksman kostya\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\school\desktop\Ñ++\oksman kostya\mazeframework\include\mazelib.h
+
+1492519808 source:c:\users\admin15\desktop\oksman kostya\main.cpp
+	"stdio.h"
+	"Maze.h"
+
+1491631423 c:\users\admin15\desktop\oksman kostya\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin15\desktop\oksman kostya\mazeframework\include\mazelib.h
+

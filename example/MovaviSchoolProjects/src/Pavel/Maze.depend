@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1491918955 source:c:\users\admin18\desktop\c++\kolotilin\lasson12\kolotilinpavel(chushka)\main.cpp
+	"stdio.h"
+	"Maze.h"
+
+1491631423 c:\users\admin18\desktop\c++\kolotilin\lasson12\kolotilinpavel(chushka)\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin18\desktop\c++\kolotilin\lasson12\kolotilinpavel(chushka)\mazeframework\include\mazelib.h
+
+1493123732 source:c:\users\school\desktop\kolotilinpavel(chushka)\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"Maze.h"
+	"time.h"
+
+1491631423 c:\users\school\desktop\kolotilinpavel(chushka)\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\school\desktop\kolotilinpavel(chushka)\mazeframework\include\mazelib.h
+
+1492522868 source:c:\users\admin18\desktop\kolotilinpavel(chushka)\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"Maze.h"
+
+1491631423 c:\users\admin18\desktop\kolotilinpavel(chushka)\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 c:\users\admin18\desktop\kolotilinpavel(chushka)\mazeframework\include\mazelib.h
+
+1492522868 source:e:\proj_18\kolotilinpavel(chushka)\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"Maze.h"
+
+1491631423 e:\proj_18\kolotilinpavel(chushka)\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 e:\proj_18\kolotilinpavel(chushka)\mazeframework\include\mazelib.h
+
+1493123732 source:e:\prog_25\kolotilinpavel(chushka)\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"Maze.h"
+	"time.h"
+
+1491631423 e:\prog_25\kolotilinpavel(chushka)\mazeframework\include\maze.h
+	"MazeLib.h"
+	<functional>
+
+1491622808 e:\prog_25\kolotilinpavel(chushka)\mazeframework\include\mazelib.h
+
